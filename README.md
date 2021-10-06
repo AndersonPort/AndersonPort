@@ -1,8 +1,8 @@
 ## Hello, I am Anderson Portela! 👋
 
-👨‍💻 I'm a self-taught Frontend Development student!</br>
-❤️ I'm passionate about tech, music, games and health!</br>
-🚧 Currently studying fullstack development at Digital Innovation One (Eduzz Fullstack Developer)</br>
+👨‍💻 I'm a self-taught Frontend Development student!<br>
+❤️ I'm passionate about tech, music, games and health!<br>
+🚧 Currently studying fullstack development at Digital Innovation One (Eduzz Fullstack Developer)<br>
 
 
 <div>
@@ -27,3 +27,11 @@
 
 </a>     
 </div>
+
+<details>
+    <summary align="left">GitHub Profile Stats 💻 📊 </summary><br>
+    <img 
+         src="https://github-profile-trophy.vercel.app/?username=AndersonPort&column=7&theme=gruvbox&no-frame=true" 
+         width="1200px" 
+    /> 
+</details>
