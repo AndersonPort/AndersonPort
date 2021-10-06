@@ -1,4 +1,4 @@
-## Hello, I am Anderson Portela! 
+## Hello, I am Anderson Portela! 👋
 
 👨‍💻 I'm a self-taught Frontend Development student!</br>
 ❤️ I'm passionate about tech, music, games and health!</br>
