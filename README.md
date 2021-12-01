@@ -4,7 +4,7 @@
 
 👨‍💻 I'm a self-taught Frontend Development student!<br>
 ❤️ I'm passionate about tech, music, games and health!<br>
-🚧 Currently studying fullstack development at Digital Innovation One (Eduzz Fullstack Developer)<br>
+
 
 
 
